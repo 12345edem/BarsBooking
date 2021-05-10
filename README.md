@@ -24,6 +24,7 @@
 Для запсука сервера достаточно ввести команду
 
 ```dotnet run```
+
 Так же *_НЕ ЗАБУДЬТЕ_* ввести верную Connection String для своей БД
 
 ## Референсы
@@ -31,6 +32,7 @@
 [blablacar](https://www.blablacar.ru/) и [Booking.com](https://www.booking.com/index.ru.html)
 
 ## О нас
+![DOTNETTEAM](https://github.com/12345edem/BarsBookingTest/tree/master/imgForReadme/DOTNETTEAM.png)
 Мы команда DOTNET TEAM, связаться с нами можно 
 по адресам:
 * [Артем](https://t.me/ArtTeg)
