@@ -33,7 +33,8 @@
 
 ## О нас
 
-![DOTNETTEAM](https://github.com/12345edem/BarsBookingTest/tree/master/imgForReadme/DOTNETTEAM.png)
+![DOTNETTEAM](https://github.com/12345edem/BarsBookingTest/blob/master/imgForReadme/DOTNETTEAM.png)
+
 
 Мы команда DOTNET TEAM, связаться с нами можно 
 по адресам:
